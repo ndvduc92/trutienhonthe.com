@@ -25,6 +25,8 @@
     <!-- icon -->
     <link rel="apple-touch-icon" href="/assets/icon.png">
     <link rel="icon" type="image/png" href="/assets/icon.png">
+    <link rel="shortcut icon" href="/assets/icon.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/icon.png" />
 
     <!-- CSS -->
     <link rel="stylesheet" href="/assets/css/swiper-bundle.min.css">
