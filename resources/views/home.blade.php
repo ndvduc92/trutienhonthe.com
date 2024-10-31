@@ -197,11 +197,11 @@
 @section('script')
     <script>
         function activeBtn(x) {
-            x.setAttribute("src", "https://st1.cmn.vn/games/kiem-vu/mainsite/images/choingay.gif?ver=2.3");
+            x.setAttribute("src", "/assets/taigame-btn-active.png");
         }
 
         function normalBtn(x) {
-            x.setAttribute("src", "https://st1.cmn.vn/games/kiem-vu/mainsite/images/choingay.gif?ver=2.3");
+            x.setAttribute("src", "/assets/taigame-btn.png");
         }
     </script>
 @endsection
