@@ -1,6 +1,5 @@
 <!-- Menpai -->
 <section class="menpai">
-    <div class="title"><img class="img-fluid" src="/assets/title_menpai.png"></div>
     <div class="chara">
         <div class="chara_item">
             <div id="chara01" class="chara_content chara_content_nhantoc on">
