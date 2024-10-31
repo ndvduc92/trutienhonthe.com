@@ -13421,3 +13421,281 @@ li.fancybox-thumbs-loading {
     text-overflow: ellipsis;
     overflow: hidden;
 }
+
+/*--- Dac sac ---*/
+.dacsac {
+    width: 1006px;
+    height: 680px;
+    margin: 0 auto 0px;
+    padding: 105px 0 0 160px;
+    background: url(/assets/dacsac-bg.png) no-repeat 0 0;
+    position: relative;
+    /*--- Character ---*/
+}
+
+.dacsac .dacsac-tab {
+    position: relative;
+    z-index: 2;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 0 20px 30px;
+}
+
+.dacsac .dacsac-tab li {
+    margin-right: 5px;
+}
+
+.dacsac .dacsac-tab li a {
+    display: block;
+    width: 128px;
+    height: 44px;
+    line-height: 43px;
+    background: url(/assets/dacsac-tab.jpg);
+    color: #e3f4fa;
+    text-align: center;
+    font-weight: normal;
+    font-size: 16px;
+    font-family: 'Roboto Slab';
+}
+
+.dacsac .dacsac-tab li a:hover, .dacsac .dacsac-tab li a.active {
+    background: url(/assets/dacsac-tab-hover.jpg);
+    color: #ffffff;
+}
+
+.dacsac .dacsac-swiper-nav {
+    padding: 0px 0px;
+    margin: 0 auto;
+    width: 345px;
+    height: 80px;
+    position: absolute;
+    right: 55px;
+    bottom: 160px;
+}
+
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide {
+    cursor: pointer;
+    position: relative;
+}
+
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide img {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide .name {
+    text-align: center;
+    color: #fff;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide:hover img,
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide-thumb-active img {
+    -webkit-filter: grayscale(0%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide:hover .name,
+.dacsac .dacsac-swiper-nav .swiper-container .swiper-slide-thumb-active .name {
+    color: #dab979;
+}
+
+.dacsac .dacsac-block {
+    position: absolute;
+    top: 92px;
+    right: 0;
+    bottom: 0;
+    left: 123px;
+    margin: 0 0 0px;
+}
+
+.dacsac .dacsac-block .dacsac-content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info {
+    width: calc(100% - 520px);
+    padding: 90px 0 0 20px;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info .dacsac-name {
+    font-family: 'Roboto Slab';
+    font-weight: 500;
+    color: #845618;
+    text-transform: inherit;
+    text-align: inherit;
+    font-weight: normal;
+    font-size: 50px;
+    padding: 0 0 20px;
+    margin: 0 0 20px;
+    background: url(/assets/dacsac-line.png) no-repeat center bottom;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info .note {
+    color: #3d4249;
+    text-transform: capitalize;
+    text-align: inherit;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0 0 5px 0;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info .note img {
+    padding: 0 0px;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info .intro {
+    color: #3d4249;
+    text-transform: inherit;
+    text-align: inherit;
+    font-weight: normal;
+    padding: 20px 0;
+    padding: 0 0 20px;
+    margin: 0 0 10px;
+    background: url(/assets/dacsac-line.png) no-repeat center bottom;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info .intro .view-more {
+    display: block;
+    width: 79px;
+    height: 30px;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: normal;
+    font-size: 14px;
+    background: url(../images/view-more.gif) no-repeat;
+}
+
+.dacsac .dacsac-block .dacsac-content .dacsac-info .intro .view-more:hover {
+    background: url(../images/view-more-hover.gif) no-repeat;
+}
+
+.screenshot {
+    width: 1090px;
+    margin: 0px auto;
+}
+
+.screenshot #accordion-screenshot {
+    border: none;
+    height: 570px;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item {
+    height: 570px;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item a {
+    position: relative;
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item .thumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item .img-large {
+    display: block;
+    margin: 51px 0 0 90px;
+    padding: 6px 0 0 14px;
+    position: relative;
+    width: 707px;
+    height: 430px;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item .img-large:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url(/assets/screenshot-frame.png) no-repeat;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item .thumb:nth-child(2) {
+    opacity: 0;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item.active a {
+    opacity: 1;
+    display: block;
+}
+
+.screenshot #accordion-screenshot .pana-accordion-item.active .thumb {
+    opacity: 1;
+    z-index: 2;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+
+
+.bxh {
+    width: 1153px;
+    height: 530px;
+    background: url(/assets/bangxephang-bg.png) no-repeat 0 0;
+    padding: 100px 0px 0 85px;
+}
+
+.bxh-image {
+    margin: 0 40px 0 0;
+    padding: 0 0 0 0;
+    display: inline-block;
+    float: left;
+    border: solid 1px #455776;
+}
+
+.bxh-table {
+    width: 705px;
+    color: #5b6473;
+    font-size: 16px;
+    text-align: center;
+}
+
+.bxh-table thead {
+    color: #ffffff;
+    font-family: "RobotoSlab-Regular";
+    font-size: 16px;
+    background: url(/assets/bxh-head-bg.jpg) no-repeat;
+}
+
+.bxh-table thead th {
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.bxh-table tr:not(:last-child) {
+    border-bottom: solid 1px #2a4a61;
+}
+
+.bxh-table tr td {
+    padding: 6px 10px;
+    text-align: center;
+    color: #9eabba;
+    font-size: 15px;
+}

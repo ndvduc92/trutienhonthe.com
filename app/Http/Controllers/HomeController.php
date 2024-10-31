@@ -3,13 +3,15 @@
 namespace App\Http\Controllers;
 
 use App\Models\Post;
+use App\Models\Char;
 
 class HomeController extends Controller
 {
     public function home()
     {
+        $chars = Char::orderBy("level", "DESC")->limit(10)->get();
         $posts = Post::latest()->limit(5)->get();
-        return view('home', compact("posts"));
+        return view('home', compact("posts", "chars"));
     }
 
     public function news()
