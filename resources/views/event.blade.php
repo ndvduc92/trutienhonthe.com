@@ -5,7 +5,10 @@
     <img class="img-fluid d-lg-none" src="/assets/news_banner_m.jpg">
 </section>
 <div class="eventx">
-    @include('layouts.event')
+    <div style="margin-bottom: 144px">
+        @include('layouts.event')
+    </div>
+    
     @include('layouts.info')
 </div>
 <style>

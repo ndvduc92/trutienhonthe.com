@@ -1,43 +1,49 @@
 <div class="floating show-desktop">
-    <a href="/tai-game" target="_blank">Tải Game</a>
-    <a href="https://id.trutienhonthe.com/nap-tien" target="_blank">Nạp Tiền</a>
-    <a href="https://id.trutienhonthe.com" target="_bank">Đăng Ký</a>
-    <a href="/" target="_bank">Discord</a>
-    <a href="" target="_bank">Fanpage</a>
-    <a href="" target="_bank">Group</a>
-    <a class="floating-top" href="#">
-        <img src="/assets/floating-top.png" alt="">
-    </a>
+    <a class="btn-image giftcode animated delay-1000 tada hover-stop-animated loop-infinite go" href="https://id.trutienhonthe.com/giftcodes"
+        data-rel="popup-giftcode" target="_blank">
+        <img src="/assets/floating-giftcode.png?ver=1.89" alt=""></a>
+    <a class="btn-image" target="_blank" href="/">
+        <img src="/assets/floating-vip.png?ver=1.89" alt=""></a>
+    <a class="btn-image" target="_blank" href="https://id.trutienhonthe.com/nap-tien">
+        <img src="/assets/floating-muathe.png?ver=1.89" alt=""></a>
+    <a class="btn-image" target="_blank" href="https://www.facebook.com/zhuxian.aoc">
+        <img src="/assets/floating-fanpage.png?ver=1.89" alt=""></a>
+    <a class="btn-image" href="https://hotro.cmn.vn">
+        <img src="/assets/floating-hotro.png?ver=1.89" alt=""></a>
+    <a class="btn-image top" href="#">
+        <img src="/assets/floating-top.png?ver=1.89" alt=""></a>
 </div>
 
 <style>
     .floating {
-        width: 150px;
-        height: 430px;
+        width: 147px;
+        height: 354px;
         position: fixed;
         top: 50%;
-        right: 0;
+        right: 0px;
         background: url(/assets/floating-bg.png) no-repeat;
         z-index: 10;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
-        padding: 102px 0 0 0
+        padding: 53px 0 0 0px;
     }
 
     .floating a {
-        font-family: robotoslab;
-        color: #35353c;
-        text-transform: uppercase;
-        text-align: center;
-        font-weight: 400;
-        font-size: 13px;
         display: block;
-        background: url(/assets/floating-line.png) no-repeat center bottom;
-        padding: 0 0 0;
-        margin: 0 0;
-        line-height: 35px;
-        height: 35px
+        margin-bottom: 8px;
+    }
+
+    .floating a.top {
+        margin-top: 16px;
+    }
+
+    .floating a:hover {
+        -webkit-animation-play-state: paused;
+        animation-play-state: paused;
+        -webkit-animation: step-end;
+        -moz-animationanimation: step-end;
+        animation: step-end;
     }
 
     .floating a:hover {

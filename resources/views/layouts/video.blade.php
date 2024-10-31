@@ -1,5 +1,6 @@
 <header>
     <!-- Video -->
+    <div class="age18"></div>
     <div class="sec_bg">
         <video loop="" muted="" playsinline="" autoplay="">
             <source src="/assets/videos/main.mp4" type="video/mp4">
@@ -13,4 +14,15 @@
             <img src="/assets/taigame-btn.png" onmouseover="activeBtn(this)" onmouseout="normalBtn(this)">
         </a>
     </div>
+    <style>
+        .age18 {
+            position: fixed;
+            top: 80px;
+            left: 20px;
+            width: 184px;
+            height: 70px;
+            background: url(/assets/18p.gif) no-repeat;
+            z-index: 12;
+        }
+    </style>
 </header>

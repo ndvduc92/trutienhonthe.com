@@ -1,8 +1,6 @@
 
-<div class="container">
-    <div class="event-frame" style="margin-top: 50px">
-
-
+<section class="container">
+    <div class="event-frame">
         <div class="server-plan">
             <img src="/assets/icon.png" alt="" width="200">
         </div>
@@ -354,4 +352,9 @@
             </div>
         </div>
     </div>
-</div>
+    <style>
+        .event-list li a {
+            color: aliceblue;
+        }
+    </style>
+</section>
