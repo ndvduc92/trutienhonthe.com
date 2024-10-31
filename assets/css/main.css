@@ -1271,7 +1271,6 @@ main {
 .features {
   position: relative;
   padding-bottom: 35px;
-  background: url(/assets/features.jpg) no-repeat center center;
   background-size: cover;
   overflow: hidden;
 }
