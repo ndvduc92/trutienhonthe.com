@@ -1,7 +1,7 @@
 <header>
     <!-- Video -->
-    <div class="age18"></div>
     <div class="sec_bg">
+        <div class="age18"></div>
         <video loop="" muted="" playsinline="" autoplay="">
             <source src="/assets/videos/main.mp4" type="video/mp4">
         </video>
