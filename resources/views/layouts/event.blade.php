@@ -2,7 +2,7 @@
 <section class="container" style="padding-top: 0px;">
     <div class="event-frame" style="margin-top: 25px;">
         <div class="server-plan">
-            <img src="/assets/icon.png" alt="" width="200">
+            <img src="/assets/img-umbella-pink.png" class="bxh-" alt="" style="animation: spin 10s linear infinite;">
         </div>
 
         <a class="server-more btn-image" href="/may-chu">

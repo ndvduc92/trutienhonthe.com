@@ -4,7 +4,7 @@
     </h2>
     <div class="bxh">
         <a href="#">
-            <img class="bxh-image" src="https://st1.cmn.vn/games/tien-chien/mainsite/images/bxh-img.jpg?ver=1.89"
+            <img class="bxh-image" src="/assets/img-umbella-blue.png" style="animation: spin 10s linear infinite;"
                 alt="">
         </a>
         <table class="bxh-table" style="background-color: transparent; font-size: 0.8125rem;">

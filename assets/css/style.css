@@ -13161,6 +13161,7 @@ li.fancybox-thumbs-loading {
     width: 230px;
     height: 350px;
     margin: 0px 0px 0 5px;
+    text-align: center;
 }
 
 .server-plan .user-info {
@@ -13203,6 +13204,7 @@ li.fancybox-thumbs-loading {
 
 .server-plan .server-slider img {
     margin: 0 5px 2px 0;
+    text-align: center;
 }
 
 .server-plan .server-slider .server-list li {
@@ -13667,7 +13669,6 @@ li.fancybox-thumbs-loading {
     padding: 0 0 0 0;
     display: inline-block;
     float: left;
-    border: solid 1px #455776;
 }
 
 .bxh-table {
