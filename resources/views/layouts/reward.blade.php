@@ -1,3 +1,38 @@
+<section class="rewards">
+    <div class="container">
+        <div class="title"><img class="img-fluid" src="/assets/dacsac.png"></div>
+        <div class="rewards_list">
+            <div class="rewards_icon r1">
+                <img class="img-fluid" src="/assets/rewards_icon01_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon01.png">
+            </div>
+            <div class="rewards_icon r2">
+                <img class="img-fluid" src="/assets/rewards_icon02_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon02.png">
+            </div>
+            <div class="rewards_icon r3">
+                <img class="img-fluid" src="/assets/rewards_icon03_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon03.png">
+            </div>
+            <div class="rewards_icon r4">
+                <img class="img-fluid" src="/assets/rewards_icon04_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon04.png">
+            </div>
+            <div class="rewards_icon r5">
+                <img class="img-fluid" src="/assets/rewards_icon05_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon05.png">
+            </div>
+            <div class="rewards_icon r6">
+                <img class="img-fluid" src="/assets/rewards_icon06_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon06.png">
+            </div>
+            <div class="rewards_icon r7">
+                <img class="img-fluid" src="/assets/rewards_icon07_hover.png">
+                <img class="img-fluid view" src="/assets/rewards_icon07.png">
+            </div>
+        </div>
+    </div>
+</section>
 <div class="rewards_popup" style="display: none;">
     <div class="popup_bg">
         <img class="img-fluid" src="/assets/pop_fuli_bg.png">

@@ -1,6 +1,6 @@
 
-<section class="container">
-    <div class="event-frame">
+<section class="container" style="padding-top: 0px;">
+    <div class="event-frame" style="margin-top: 25px;">
         <div class="server-plan">
             <img src="/assets/icon.png" alt="" width="200">
         </div>

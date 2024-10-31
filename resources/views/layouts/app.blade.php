@@ -64,9 +64,6 @@
     <script src="/assets/js/lity.js"></script>
     <!-- <script src="js/20220309.js"></script> -->
     <script src="/assets/js/main.js"></script>
-    <div style="display:none;">
-        <script src="/assets/js/pwstat.js"></script>
-    </div>
     <script src="/assets/js/mainevent.js"></script>
     <script src="/assets/js/jquery.fancybox.js"></script>
     <script src="/assets/js/pana-accordion.js"></script>
