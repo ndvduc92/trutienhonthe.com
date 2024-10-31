@@ -4,10 +4,6 @@
     <div class="chara">
         <div class="chara_item">
             <div id="chara01" class="chara_content chara_content_nhantoc on">
-                <div class="sec_bg d-none d-lg-block">
-
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -23,10 +19,7 @@
                 </div>
             </div>
             <div id="chara02" class="chara_content chara_content_nhantoc" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -41,10 +34,7 @@
                 </div>
             </div>
             <div id="chara03" class="chara_content chara_content_nhantoc" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -59,10 +49,7 @@
                 </div>
             </div>
             <div id="chara04" class="chara_content chara_content_nhantoc" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -78,10 +65,7 @@
                 </div>
             </div>
             <div id="chara05" class="chara_content chara_content_nhantoc" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -98,10 +82,7 @@
                 </div>
             </div>
             <div id="chara06" class="chara_content chara_content_nhantoc" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -118,10 +99,7 @@
                 </div>
             </div>
             <div id="chara07" class="chara_content chara_content_thandue" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -134,10 +112,7 @@
                 </div>
             </div>
             <div id="chara08" class="chara_content chara_content_thandue" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -152,10 +127,7 @@
                 </div>
             </div>
             <div id="chara09" class="chara_content chara_content_thandue" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -169,10 +141,7 @@
                 </div>
             </div>
             <div id="chara010" class="chara_content chara_content_thandue" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -188,10 +157,7 @@
                 </div>
             </div>
             <div id="chara011" class="chara_content chara_content_thandue" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -207,10 +173,7 @@
                 </div>
             </div>
             <div id="chara012" class="chara_content chara_content_thandue" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -228,10 +191,7 @@
                 </div>
             </div>
             <div id="chara013" class="chara_content chara_content_thienmach" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -244,10 +204,7 @@
                 </div>
             </div>
             <div id="chara014" class="chara_content chara_content_thienmach" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -260,10 +217,7 @@
                 </div>
             </div>
             <div id="chara015" class="chara_content chara_content_thienmach" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -276,10 +230,7 @@
                 </div>
             </div>
             <div id="chara016" class="chara_content chara_content_thienmach" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -291,10 +242,7 @@
                 </div>
             </div>
             <div id="chara017" class="chara_content chara_content_thienmach" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">
@@ -307,10 +255,7 @@
                 </div>
             </div>
             <div id="chara018" class="chara_content chara_content_thienmach" style="display: none;">
-                <div class="sec_bg d-none d-lg-block">
 
-                    <div class="mask"></div>
-                </div>
                 <div class="chara_img"></div>
                 <div class="chara_shadow"></div>
                 <div class="chara_intro">

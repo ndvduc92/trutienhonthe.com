@@ -899,93 +899,93 @@ main {
 }
 
 #chara01 .chara_img {
-  background: url(/assets/images/class/chars/tvm.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/tvm.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara02 .chara_img {
-  background: url(/assets/images/class/chars/hhp.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/hhp.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara03 .chara_img {
-  background: url(/assets/images/class/chars/tat.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/tat.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara04 .chara_img {
-  background: url(/assets/images/class/chars/qvt.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/qvt.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara05 .chara_img {
-  background: url(/assets/images/class/chars/qd.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/qd.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara06 .chara_img {
-  background: url(/assets/images/class/chars/phc.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/phc.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara07 .chara_img {
-  background: url(/assets/images/class/chars/ls.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/ls.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara08 .chara_img {
-  background: url(/assets/images/class/chars/cl.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/cl.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara09 .chara_img {
-  background: url(/assets/images/class/chars/thaihao.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/thaihao.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara010 .chara_img {
-  background: url(/assets/images/class/chars/hq.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/hq.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara011 .chara_img {
-  background: url(/assets/images/class/chars/thienhoa.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/thienhoa.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara012 .chara_img {
-  background: url(/assets/images/class/chars/thanhoang.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/thanhoang.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara013 .chara_img {
-  background: url(/assets/images/class/chars/ac.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/ac.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara014 .chara_img {
-  background: url(/assets/images/class/chars/kc.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/kc.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara015 .chara_img {
-  background: url(/assets/images/class/chars/tl.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/tl.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara016 .chara_img {
-  background: url(/assets/images/class/chars/pq.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/pq.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara017 .chara_img {
-  background: url(/assets/images/class/chars/qv.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/qv.png) no-repeat right center;
+  background-size: contain;
 }
 
 #chara018 .chara_img {
-  background: url(/assets/images/class/chars/ha.png) no-repeat right center;
-  background-size: cover;
+  background: url(/assets/images/class/charsv2/ha.png) no-repeat right center;
+  background-size: contain;
 }
 
 .chara_content.on .chara_img {
@@ -1477,43 +1477,93 @@ footer .company {
   }
 
   #chara01 .chara_img {
-    background: url(/assets/images/class/chars/tvm_mobile.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/tvm.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara02 .chara_img {
-    background: url(/assets/chara02.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/hhp.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara03 .chara_img {
-    background: url(/assets/chara03.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/tat.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara04 .chara_img {
-    background: url(/assets/chara04.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/qvt.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara05 .chara_img {
-    background: url(/assets/chara05.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/qd.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara06 .chara_img {
-    background: url(/assets/chara06.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/phc.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara07 .chara_img {
-    background: url(/assets/chara07.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/cl.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   #chara08 .chara_img {
-    background: url(/assets/chara08.png) no-repeat 60% center;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/ls.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara09 .chara_img {
+    background: url(/assets/images/class/charsv2/thaihao.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara010 .chara_img {
+    background: url(/assets/images/class/charsv2/hq.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara011 .chara_img {
+    background: url(/assets/images/class/charsv2/thienhoa.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara012 .chara_img {
+    background: url(/assets/images/class/charsv2/thanhoang.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara013 .chara_img {
+    background: url(/assets/images/class/charsv2/ac.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara014 .chara_img {
+    background: url(/assets/images/class/charsv2/kc.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara015 .chara_img {
+    background: url(/assets/images/class/charsv2/tl.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara016 .chara_img {
+    background: url(/assets/images/class/charsv2/pq.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara017 .chara_img {
+    background: url(/assets/images/class/charsv2/qv.png) no-repeat 60% center;
+    background-size: contain;
+  }
+
+  #chara018 .chara_img {
+    background: url(/assets/images/class/charsv2/ha.png) no-repeat 60% center;
+    background-size: contain;
   }
 
   .role {
@@ -1875,93 +1925,93 @@ footer .company {
   }
 
   #chara01 .chara_img {
-    background: url(/assets/images/class/chars/tvm_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/tvm.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara02 .chara_img {
-    background: url(/assets/images/class/chars/hhp_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/hhp.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara03 .chara_img {
-    background: url(/assets/images/class/chars/tat_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/tat.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara04 .chara_img {
-    background: url(/assets/images/class/chars/qvt_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/qvt.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara05 .chara_img {
-    background: url(/assets/images/class/chars/qd_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/qd.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara06 .chara_img {
-    background: url(/assets/images/class/chars/phc_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/phc.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara07 .chara_img {
-    background: url(/assets/images/class/chars/ls_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/ls.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara08 .chara_img {
-    background: url(/assets/images/class/chars/cl_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/cl.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara09 .chara_img {
-    background: url(/assets/images/class/chars/thaihao_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/thaihao.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara010 .chara_img {
-    background: url(/assets/images/class/chars/hq_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/hq.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara011 .chara_img {
-    background: url(/assets/images/class/chars/thienhoa_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/thienhoa.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara012 .chara_img {
-    background: url(/assets/images/class/chars/thanhoang_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/thanhoang.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara013 .chara_img {
-    background: url(/assets/images/class/chars/ac_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/ac.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara014 .chara_img {
-    background: url(/assets/images/class/chars/kc_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/kc.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara015 .chara_img {
-    background: url(/assets/images/class/chars/tl_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/tl.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara016 .chara_img {
-    background: url(/assets/images/class/chars/pq_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/pq.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara017 .chara_img {
-    background: url(/assets/images/class/chars/qv_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/qv.png) no-repeat center top;
+    background-size: contain;
   }
 
   #chara018 .chara_img {
-    background: url(/assets/images/class/chars/ha_mobile.png) no-repeat center top;
-    background-size: cover;
+    background: url(/assets/images/class/charsv2/ha.png) no-repeat center top;
+    background-size: contain;
   }
 
   .chara_content.on .chara_img {
