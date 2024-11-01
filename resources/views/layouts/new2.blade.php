@@ -3,25 +3,23 @@
         <div class="swiper-container banner-slider swiper-container-initialized swiper-container-horizontal">
             <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
                 <div class="swiper-slide swiper-slide-active" style="width: 441px;">
-                    <a href="https://kiemvu.cmn.vn/tin-tuc/ra-mat-may-chu-moi-s225-kiem-vu" target="_blank">
-                        <img src="http://localhost:8000/assets/store_img03.jpg" alt="225" width="441"
-                            height="354">
+                    <a href="#" target="_blank">
+                        <img src="/assets/ltk.jpg" alt="225" width="441" height="354">
                     </a>
                 </div>
                 <div class="swiper-slide swiper-slide-next" style="width: 441px;">
-                    <a href="https://kiemvu.cmn.vn/tin-tuc/ra-mat-may-chu-moi-s224-kiem-vu" target="_blank">
-                        <img src="http://localhost:8000/assets/store_img02.jpg" alt="224" width="441"
-                            height="354">
+                    <a href="#" target="_blank">
+                        <img src="/assets/bd.jpg" alt="224" width="441" height="354">
                     </a>
                 </div>
                 <div class="swiper-slide" style="width: 441px;">
-                    <a href="https://kiemvu.cmn.vn/tin-tuc/ra-mat-may-chu-moi-s223-kiem-vu" target="_blank">
-                        <img src="https://st1.cmn.vn/cmngamest/resize/43999/441x354-yQi-uBC-441x354.jpg" alt="223">
+                    <a href="#" target="_blank">
+                        <img src="/assets/ql.jpg" alt="223">
                     </a>
                 </div>
                 <div class="swiper-slide" style="width: 441px;">
-                    <a href="https://kiemvu.cmn.vn/tin-tuc/ra-mat-may-chu-moi-s222-kiem-vu" target="_blank">
-                        <img src="https://st1.cmn.vn/cmngamest/resize/43994/441x354-BJp-tic-441x354.jpg" alt="222">
+                    <a href="h#" target="_blank">
+                        <img src="/assets/ltk.jpg" alt="222">
                     </a>
                 </div>
             </div>
@@ -33,18 +31,16 @@
         </div>
         <div class="news">
             <ul class="nav news-tab">
-                <li><img src="http://localhost:8000/assets/wmlogo_en_black.png" alt=""></li>
+                <li><img src="/assets/wmlogo_en_black.png" alt=""></li>
             </ul>
             <div class="tab-content">
                 <div>
                     <ul class="news-list">
                         @foreach ($posts as $post)
                             <li class="{{ $loop->index == 0 ? 'highlight' : '' }}">
-                                <a class="news-title" href="/tin-tuc/{{ $post->slug }}"
-                                    title="{{ $post->title }}">
+                                <a class="news-title" href="/tin-tuc/{{ $post->slug }}" title="{{ $post->title }}">
                                     @if ($loop->index == 0)
-                                        <img src="/assets/news-new-icon.jpg?ver=2.3"
-                                            alt="">
+                                        <img src="/assets/news-new-icon.jpg?ver=2.3" alt="">
                                     @endif
                                     <span>
                                         {{ $post->title }}
@@ -56,8 +52,7 @@
                         @endforeach
                     </ul>
                     <a class="news-more" href="/tin-tuc" title="xem thêm">
-                        <img src="/assets/xemthem-btn.jpg?ver=2.3"
-                            alt="">
+                        <img src="/assets/xemthem-btn.jpg?ver=2.3" alt="">
                     </a>
                 </div>
             </div>
