@@ -13,11 +13,11 @@
 @include('layouts.event')
 @include('layouts.bxh')
 @include('layouts.reward')
-@include('layouts.tintuc')
+@include('layouts.new2')
 
 @include('layouts.class')
-@include('layouts.dacsac')
-@include('layouts.screen')
+{{-- @include('layouts.dacsac')
+@include('layouts.screen') --}}
 
 @include('layouts.features')
 

@@ -16,7 +16,7 @@ class HomeController extends Controller
 
     public function news()
     {
-        $posts = Post::latest()->limit(5)->get();
+        $posts = Post::latest()->limit(6)->get();
         return view('news', compact("posts"));
     }
 

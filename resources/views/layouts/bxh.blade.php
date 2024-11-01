@@ -31,7 +31,7 @@
                     </td>
                     <td>{{$item->name}}</td>
                     <td>{{$item->level}}</td>
-                    <td>{{$item->class_name}}<br></td>
+                    <td>{!! $item->class_icon !!}<br></td>
                 </tr>
                 @endforeach
 

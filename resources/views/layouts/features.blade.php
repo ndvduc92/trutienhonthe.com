@@ -1,7 +1,7 @@
 <!-- Features -->
 <section class="features">
     <div class="container">
-        <div class="title"><img class="title" src="/assets/dacsac.png"></div>
+        <div class="title"><img class="title" src="/assets/screenshot.png"></div>
         <div class="app_store">
             <div class="reel"><img class="img-fluid" src="/assets/reel.png"></div>
             <div id="app_store" class="carousel slide carousel-fade" data-ride="carousel">
