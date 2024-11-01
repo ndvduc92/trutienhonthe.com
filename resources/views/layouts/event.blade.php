@@ -1,11 +1,10 @@
-
 <section class="container" style="padding-top: 0px;">
     <div class="event-frame" style="margin-top: 25px;">
         <div class="server-plan">
             <img src="/assets/icon.png" class="bxh-img" width="200" alt="">
         </div>
 
-        <a class="server-more btn-image" href="/may-chu">
+        <a class="server-more btn-image" href="/hoat-dong">
             <img src="/assets/server-more.png">
         </a>
         <div class="event">
@@ -19,7 +18,7 @@
 
                                 <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -27,7 +26,7 @@
 
                                 <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -35,7 +34,7 @@
 
                                 <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -43,7 +42,7 @@
 
                                 <a href="/14h30-14h50-ho-tong-bien-canh">
 
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -51,7 +50,7 @@
 
                                 <a href="/12h-12h20-thi-dau-lien-sv">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -65,41 +64,41 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien-1">
+                                <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/17h-17h30-boss-chuyen-sinh-1">
-
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh-1">
+                                <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/14h30-14h50-ho-tong-bien-canh-1">
-
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv-1">
+                                <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/14h30-14h50-ho-tong-bien-canh">
+
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/12h-12h20-thi-dau-lien-sv">
+
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -113,41 +112,41 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien-2">
+                                <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/17h-17h30-boss-chuyen-sinh-2">
-
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh-2">
+                                <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/14h30-14h50-ho-tong-bien-canh-2">
-
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv-2">
+                                <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/14h30-14h50-ho-tong-bien-canh">
+
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/12h-12h20-thi-dau-lien-sv">
+
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -161,41 +160,41 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien-3">
+                                <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/17h-17h30-boss-chuyen-sinh-3">
-
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh-3">
+                                <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/14h30-14h50-ho-tong-bien-canh-3">
-
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv-3">
+                                <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/14h30-14h50-ho-tong-bien-canh">
+
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/12h-12h20-thi-dau-lien-sv">
+
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -203,48 +202,47 @@
                         </ul>
                     </div>
 
-                    <div class="pana-accordion-item active hide-mask"
-                        style="z-index: 5; width: 440px; left: 204px;">
+                    <div class="pana-accordion-item active hide-mask" style="z-index: 5; width: 440px; left: 204px;">
                         <img class="thumb" src="/assets/event-thu-6.png" alt="">
 
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien-4">
+                                <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/17h-17h30-boss-chuyen-sinh-4">
-
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh-7">
+                                <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/16h-16h10-boss-bien-canh-4">
-
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv-4">
+                                <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/14h30-14h50-ho-tong-bien-canh">
+
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/12h-12h20-thi-dau-lien-sv">
+
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -258,41 +256,41 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien-5">
+                                <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/17h-17h30-boss-chuyen-sinh-5">
-
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh-5">
+                                <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/14h30-14h50-ho-tong-bien-canh-5">
-
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv-5">
+                                <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/14h30-14h50-ho-tong-bien-canh">
+
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/12h-12h20-thi-dau-lien-sv">
+
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
@@ -306,41 +304,41 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien-6">
+                                <a href="/19h30-19h50-ve-thanh-chien">
 
-                                    <span class="event-name">19H30 - 19H50 : VỆ THÀNH CHIẾN</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/17h-17h30-boss-chuyen-sinh-6">
-
-                                    <span class="event-name">17H - 17H30 : BOSS CHUYỂN SINH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh-7">
+                                <a href="/17h-17h30-boss-chuyen-sinh">
 
-                                    <span class="event-name">16H - 16H10 : BOSS BIÊN CẢNH</span>
-
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="/14h30-14h50-ho-tong-bien-canh-6">
-
-                                    <span class="event-name">14H30 - 14H50 : HỘ TỐNG - BIÊN CẢNH</span>
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv-6">
+                                <a href="/16h-16h10-boss-bien-canh">
 
-                                    <span class="event-name">12H -12H20 : THI ĐẤU LIÊN SV</span>
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/14h30-14h50-ho-tong-bien-canh">
+
+                                    <span class="event-name">Đang cập nhật...</span>
+
+                                </a>
+                            </li>
+                            <li>
+
+                                <a href="/12h-12h20-thi-dau-lien-sv">
+
+                                    <span class="event-name">Đang cập nhật...</span>
 
                                 </a>
                             </li>
