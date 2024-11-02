@@ -61,7 +61,7 @@
             <a href="/tai-game">
                 <img src="/assets/taigame.png?ver=2.3" alt="">
             </a>
-            <a class="call-popup" href="https://id.trutienhonthe.com/giftcode" data-popup="popup-giftcode">
+            <a class="call-popup" href="https://id.trutienhonthe.com/giftcodes" data-popup="popup-giftcode">
                 <img src="/assets/giftcode-btn.png?ver=2.3" alt="">
             </a>
             <a href="https://zalo.me/0355251714" target="_blank">

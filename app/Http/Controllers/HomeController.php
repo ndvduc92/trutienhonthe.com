@@ -17,6 +17,9 @@ class HomeController extends Controller
     public function news()
     {
         $posts = Post::latest()->paginate(10);
+        if (request()->q) {
+            $posts = Post::where("title", "LIKE", "%".request()->q."%")->latest()->paginate(10);
+        }
         return view('news', compact("posts"));
     }
 

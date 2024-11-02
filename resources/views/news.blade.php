@@ -8,35 +8,14 @@
     <!-- News_list  -->
     <section class="latestnews">
         <div class="main-content">
-            <div class="static">
-                <span class="icon-static">
-                    <img src="/assets/icon-static.png?ver=1.89" alt="">
-                </span>
-                <h2>Tin tức</h2>
-                <div class="breadcrumb--main">
-                    <a href="/" title="Trang chủ">
-                        <i class="icons-home"></i>
-                        Trang chủ</a>
-                    - <span>Tin tức</span>
-                </div>
-                <div class="boxsearch">
-                    <form method="get" action="/tin-tuc" autocomplete="off">
-                        <fieldset>
-                            <label for="search"></label>
-                            <input class="bgsearch" id="search" type="text" name="q" placeholder="Tìm kiếm"
-                                required="">
-                            <input class="btsearch" type="submit" name="search">
-                        </fieldset>
-                    </form>
-                </div>
-            </div>
+            @include('layouts.newsheader')
             <ul class="news-list">
                 @foreach ($posts as $post)
                     <li class="highlight">
                         <a class="news__thumb"
                             href="/tin-tuc/{{$post->slug}}">
                             <img width="88px"
-                                src="/assets/icon.png"
+                                src="/assets/bd-icon.png"
                                 alt="MỪNG RA MẮT CHÍNH THỨC - KHAI MỞ S463"></a>
                         <a class="news-title" href="/tin-tuc/{{$post->slug}}"
                             title="MỪNG RA MẮT CHÍNH THỨC - KHAI MỞ S463"><span>{{ $post->title }}</span>
@@ -46,7 +25,7 @@
                     </li>
                 @endforeach
             </ul>
-            {{ $posts->links()}}
+            {{ $posts->withQueryString()->links()}}
             
 
         </div>
@@ -94,6 +73,7 @@
             color: #dab979;
             font-family: "SF-Bold";
             font-size: 16px;
+            text-transform: uppercase;
         }
 
         ul.news-list li.highlight .news-title:hover {
@@ -214,7 +194,7 @@
 
         .main-content .news-list .highlight .news-des {
             color: #9eabba;
-            font-size: 16px;
+            font-size: 14px;
         }
 
         .main-content .news-list .highlight .news-des:hover {
@@ -254,18 +234,18 @@
         .static h2 {
             font-size: 16px;
             font-weight: bold;
-            color: #9eabba;
+            color: #f8f9fa;
             margin: 10px 0 2px 5px;
             text-transform: uppercase;
         }
 
         .breadcrumb--main {
             font-size: 14px;
-            color: #9eabba;
+            color: #f8f9fa;
         }
 
         .breadcrumb--main a {
-            color: #9eabba;
+            color: #f8f9fa;
             text-decoration: none;
         }
 
@@ -299,7 +279,7 @@
 
 
         .relative-title a:hover {
-            color: #bcd7e3;
+            color: #f8f9fa;
         }
 
         .relative ul.relative-list {
@@ -311,7 +291,7 @@
 
         .relative ul.relative-list li {
             list-style: none;
-            border-bottom: 1px solid #9eabba;
+            border-bottom: 1px solid #f8f9fa;
             padding: 12px 0 10px 5px;
             margin-left: 0px;
             position: relative;
@@ -331,7 +311,7 @@
             -webkit-justify-content: space-between;
             -ms-flex-pack: justify;
             justify-content: space-between;
-            color: #9eabba;
+            color: #f8f9fa;
         }
 
         .relative ul.relative-list li a:hover {
@@ -350,7 +330,7 @@
 
         .relative ul.relative-list li .date {
             display: block;
-            color: #9eabba;
+            color: #f8f9fa;
             text-transform: inherit;
             text-align: inherit;
             font-weight: normal;
@@ -381,7 +361,7 @@
             width: 90px;
             font-size: 14px;
             padding: 3px 9px;
-            color: #9da3c0;
+            color: #f8f9fa;
         }
 
         .boxsearch .btsearch {
@@ -414,10 +394,10 @@
         }
 
         ul.page__list li a {
-            color: #9eabba !important;
+            color: #f8f9fa !important;
             text-decoration: none !important;
             font-size: 15px;
-            border: 1px solid #9eabba;
+            border: 1px solid #f8f9fa;
             display: block;
             padding: 0 10px;
             line-height: 24px;
@@ -425,8 +405,8 @@
 
         ul.page__list li a:hover {
             color: #1b3042 !important;
-            background-color: #9eabba;
-            border: 1px solid #9eabba;
+            background-color: #f8f9fa;
+            border: 1px solid #f8f9fa;
         }
 
         ul.page__list li a.disable,
@@ -434,14 +414,14 @@
             opacity: 0.6;
             cursor: default;
             background: none;
-            border: 1px solid #636363;
-            color: #636363 !important;
+            border: 1px solid #f8f9fa;
+            color: #f8f9fa !important;
         }
 
         ul.page__list li.active a {
             color: #1b3042 !important;
-            background-color: #9eabba;
-            border: 1px solid #9eabba;
+            background-color: #f8f9fa;
+            border: 1px solid #f8f9fa;
         }
 
         ul.page__list li.prev a,

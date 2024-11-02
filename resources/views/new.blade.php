@@ -8,31 +8,10 @@
     <!-- News_list  -->
     <section class="latestnews">
         <div class="main-content">
-            <div class="static">
-                <span class="icon-static">
-                    <img src="/assets/icon-static.png?ver=1.89" alt="">
-                </span>
-                <h2>Tin tức</h2>
-                <div class="breadcrumb--main">
-                    <a href="/" title="Trang chủ">
-                        <i class="icons-home"></i>
-                        Trang chủ</a>
-                    - <a href="/tin-tuc" title="Trang chủ">Tin tức</a>
-                </div>
-                <div class="boxsearch">
-                    <form method="get" action="/tin-tuc" autocomplete="off">
-                        <fieldset>
-                            <label for="search"></label>
-                            <input class="bgsearch" id="search" type="text" name="q" placeholder="Tìm kiếm"
-                                required="">
-                            <input class="btsearch" type="submit" name="search">
-                        </fieldset>
-                    </form>
-                </div>
-            </div>
+            @include('layouts.newsheader')
             <div class="StaticMain" style="font-size: 16px">
                 <div class="BlockTitle">
-                    <h3>{!! $post->title !!}</h3>
+                    <h3 style="color: white; text-transform:uppercase">{!! $post->title !!}</h3>
                 </div>
                 <div class="ContentBlock">
                     {!! $post->content !!}
