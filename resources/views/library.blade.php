@@ -7,62 +7,81 @@
     <section class="newsdetails">
         <div class="container">
 
-            <div class="title"><img class="img-fluid" src="/assets/title_news.png">
-            </div>
+
 
             <div class="newsdetails-contents">
-                <div class="newsdetails-contents">
-
-                    <p>Quý kỳ sĩ Phong Thần thân mến,</p>
-
-                    <p>Nhằm tạo sự thuận tiện cho quý kỳ sĩ Phong Thần khi tham gia vào cõi tam giới, Bổn Pháp xin gửi đến
-                        chư vị chi tiết hướng dẫn cài đặt và tải game nhanh chóng nhất. Nhân sĩ chỉ cần lựa chọn 1 trong 4
-                        cách sau là có thể tải và cài đặt game:</p>
-
-                    <p><strong>LƯU Ý QUAN TRỌNG KHI TẢI VÀ CÀI ĐẶT GAME:</strong></p>
-
-                    <ul>
-                        <li><strong>Bước 1:</strong>&nbsp;Tải bằng 1 trong 3 cách bên dưới vào 1 thư mục.</li>
-                        <li><strong>Bước 2:</strong>&nbsp;Tiến hành cài đặt game như bình thường.</li>
-                        <li><strong>Bước 3:</strong>&nbsp;<strong><a
-                                    href="https://client-download.vcdn.vn/download/fs3/autoupdate/autoupdate.exe">NHẤP TẢI
-                                    TẬP TIN AUTO UPDATE TẠI ĐÂY</a>.</strong><em>(Nhấp phải chuột chọn mở trong tab mới nếu
-                                không thể nhấn trực tiếp)</em>. Trường hợp không tải được file autoupdate vui lòng xem hướng
-                            dẫn&nbsp;<a
-                                href="http://phongthan.vinagame.com.vn/tin-tuc/can-biet/huong-dan-cach-tam-khac-phuc-loi-kho-dang-nhap-game.html"
-                                target="_blank"><strong>TẠI ĐÂY</strong></a>.</li>
-                        <li><strong>Bước 4: Chuyển file vừa tải (autoupdate.exe) vào thư mục cài đặt game.</strong></li>
-                        <li><strong>Bước 5: Nhấp vào tập tin autoupdate.exe để cập nhật game.</strong></li>
-                        <li><strong>Lưu ý</strong>:
-                            <ul>
-                                <li>Đối với các tài khoản mới tạo kể từ sau bảo trì ngày 09/08/2022, quý kỳ sĩ sau khi hoàn
-                                    tất đăng ký nhanh tài khoản thì vui lòng&nbsp;<strong>tiếp tục cập nhật mật khẩu cấp
-                                        2</strong>&nbsp;ở mục Bảo Vệ Tài Khoản thì mới có thể đăng nhập game Phong Thần.
-                                </li>
-                                <li>Đối với các tài khoản đã tạo trước đó, nếu không đăng nhập được game thì vui
-                                    lòng&nbsp;<strong>cập nhật mật khẩu cấp&nbsp;</strong>2 thì sẽ đăng nhập bình thường.
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-
-                    <p>Tải&nbsp;trực tiếp từ 360game</p>
-
-                    <ul>
-                        <li>Truy cập vào trang&nbsp;<strong><a
-                                    href="http://360game.vn/plus?_src=360game_menu">http://360game.vn/plus?_src=360game_menu</a></strong>&nbsp;tải
-                            bản cài đặt nhanh. Sau đó tìm game Phong Thần ở mục Gme Cài Đặt.</li>
-                    </ul>
-
-                    <p>Các thắc mắc liên quan đến Phong Thần, kỳ sĩ vui lòng gửi thông tin về trang&nbsp;<a
-                            href="http://hotro.zing.vn/gui-yeu-cau.html" target="_blank">hotro.zing.vn</a>&nbsp;hoặc liên hệ
-                        trực tiếp đến đường dây nóng&nbsp;<strong>1900 561 558&nbsp;</strong>để nhận được sự hỗ trợ tốt
-                        nhất.</p>
-
-                    <p>Trân trọng,</p>
+                <div class="container">
+                    <div class="portfolio-menu mt-2 mb-4">
+                        <ul style="text-align: center;">
+                            <li class=" active" data-filter=".image"><img class="img-fluid" src="https://st1.cmn.vn/games/chien-tam-quoc/mainsite/images/title-dacsac.png?ver=1.8"></li>
+                        </ul>
+                    </div>
+                    <div class="portfolio-item row">
+                        @for ($i = 1; $i < 41; $i++)
+                        <div class="item image col-lg-3 col-md-4 col-6 col-sm">
+                            <a href="/assets/lib/{{$i}}.jpg" class="fancylight popup-btn" data-fancybox-group="light">
+                                <img class="img-fluid" src="/assets/lib/{{$i}}.jpg" alt="">
+                            </a>
+                        </div>
+                        @endfor
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     @include('layouts.info')
+    <style>
+        .portfolio-menu {
+            text-align: center;
+        }
+
+        .portfolio-menu ul li {
+            display: inline-block;
+            margin: 0;
+            list-style: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            -webkit-transition: all 05s ease;
+            -moz-transition: all 05s ease;
+            -ms-transition: all 05s ease;
+            -o-transition: all 05s ease;
+            transition: all .5s ease;
+        }
+
+        .portfolio-item {
+            /*width:100%;*/
+        }
+
+        .portfolio-item .item {
+            /*width:303px;*/
+            float: left;
+            margin-bottom: 10px;
+        }
+    </style>
+@endsection
+@section('script')
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+    <script>
+        $('.portfolio-menu ul li').click(function() {
+            $('.portfolio-menu ul li').removeClass('active');
+            $(this).addClass('active');
+
+            var selector = $(this).attr('data-filter');
+            $('.portfolio-item').isotope({
+                filter: selector
+            });
+            return false;
+        });
+        $(document).ready(function() {
+            var popup_btn = $('.popup-btn');
+            popup_btn.magnificPopup({
+                type: 'image',
+                gallery: {
+                    enabled: true
+                }
+            });
+        });
+    </script>
 @endsection

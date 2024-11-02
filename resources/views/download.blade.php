@@ -13,53 +13,134 @@
             <div class="newsdetails-contents">
                 <div class="newsdetails-contents">
 
-                    <p>Quý kỳ sĩ Phong Thần thân mến,</p>
-
-                    <p>Nhằm tạo sự thuận tiện cho quý kỳ sĩ Phong Thần khi tham gia vào cõi tam giới, Bổn Pháp xin gửi đến
-                        chư vị chi tiết hướng dẫn cài đặt và tải game nhanh chóng nhất. Nhân sĩ chỉ cần lựa chọn 1 trong 4
-                        cách sau là có thể tải và cài đặt game:</p>
-
-                    <p><strong>LƯU Ý QUAN TRỌNG KHI TẢI VÀ CÀI ĐẶT GAME:</strong></p>
-
-                    <ul>
-                        <li><strong>Bước 1:</strong>&nbsp;Tải bằng 1 trong 3 cách bên dưới vào 1 thư mục.</li>
-                        <li><strong>Bước 2:</strong>&nbsp;Tiến hành cài đặt game như bình thường.</li>
-                        <li><strong>Bước 3:</strong>&nbsp;<strong><a
-                                    href="https://client-download.vcdn.vn/download/fs3/autoupdate/autoupdate.exe">NHẤP TẢI
-                                    TẬP TIN AUTO UPDATE TẠI ĐÂY</a>.</strong><em>(Nhấp phải chuột chọn mở trong tab mới nếu
-                                không thể nhấn trực tiếp)</em>. Trường hợp không tải được file autoupdate vui lòng xem hướng
-                            dẫn&nbsp;<a
-                                href="http://phongthan.vinagame.com.vn/tin-tuc/can-biet/huong-dan-cach-tam-khac-phuc-loi-kho-dang-nhap-game.html"
-                                target="_blank"><strong>TẠI ĐÂY</strong></a>.</li>
-                        <li><strong>Bước 4: Chuyển file vừa tải (autoupdate.exe) vào thư mục cài đặt game.</strong></li>
-                        <li><strong>Bước 5: Nhấp vào tập tin autoupdate.exe để cập nhật game.</strong></li>
-                        <li><strong>Lưu ý</strong>:
-                            <ul>
-                                <li>Đối với các tài khoản mới tạo kể từ sau bảo trì ngày 09/08/2022, quý kỳ sĩ sau khi hoàn
-                                    tất đăng ký nhanh tài khoản thì vui lòng&nbsp;<strong>tiếp tục cập nhật mật khẩu cấp
-                                        2</strong>&nbsp;ở mục Bảo Vệ Tài Khoản thì mới có thể đăng nhập game Phong Thần.
-                                </li>
-                                <li>Đối với các tài khoản đã tạo trước đó, nếu không đăng nhập được game thì vui
-                                    lòng&nbsp;<strong>cập nhật mật khẩu cấp&nbsp;</strong>2 thì sẽ đăng nhập bình thường.
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-
-                    <p>Tải&nbsp;trực tiếp từ 360game</p>
-
-                    <ul>
-                        <li>Truy cập vào trang&nbsp;<strong><a
-                                    href="http://360game.vn/plus?_src=360game_menu">http://360game.vn/plus?_src=360game_menu</a></strong>&nbsp;tải
-                            bản cài đặt nhanh. Sau đó tìm game Phong Thần ở mục Gme Cài Đặt.</li>
-                    </ul>
-
-                    <p>Các thắc mắc liên quan đến Phong Thần, kỳ sĩ vui lòng gửi thông tin về trang&nbsp;<a
-                            href="http://hotro.zing.vn/gui-yeu-cau.html" target="_blank">hotro.zing.vn</a>&nbsp;hoặc liên hệ
-                        trực tiếp đến đường dây nóng&nbsp;<strong>1900 561 558&nbsp;</strong>để nhận được sự hỗ trợ tốt
-                        nhất.</p>
-
-                    <p>Trân trọng,</p>
+                    <article id="post-44" class="post-44 page type-page status-publish has-post-thumbnail hentry">
+                        <div class="entry-content">
+                            <h4><span style="color: #993300;"><strong>Chọn 1 trong các link bên dưới để tải</strong></span></h4>
+                            <p>Client phiên bản: <strong>1792 - full 18 môn phái</strong>&nbsp;– Dung lượng: <strong>12GB</strong><br>
+                                Sau khi tải xong giải nén file <span style="color: #ff0000;">JD_AoC.zip</span> rồi
+                                chạy&nbsp;<span style="color: #ff0000;">Patcher.exe&nbsp;</span>để vào game.<br>
+                                Hướng dẫn sửa lỗi cài đặt:&nbsp;<a href="/"
+                                    target="_blank" rel="noopener noreferrer">Nhấn vào đây</a>
+                            </p>
+                            <table class="table table-bordered" style="width: 100%; height: 46px;" border="0">
+                            
+                                <tbody>
+                                    <tr style="background-color: #d7d8d9;">
+                                        <th>Tên tập tin</th>
+                                        <th>Kích thước tập tin</th>
+                                        <th>Nguồn</th>
+                                        <th>Tải về liên kết</th>
+                                    </tr>
+                                    <tr>
+                                        <th>JD_AoC.zip</th>
+                                        <th>12.1 GB</th>
+                                        <th>Trực tiếp</th>
+                                        <th><a href="/" target="blank"><img style="max-width: 100%; height: 50px;" src="/assets/download_button.png" alt=""></a></th>
+                                    </tr>
+                                    <tr>
+                                        <th>JD_AoC.zip</th>
+                                        <th>12.1 GB</th>
+                                        <th>Trực tiếp</th>
+                                        <th><a href="/" target="blank"><img style="max-width: 100%; height: 50px;" src="/assets/download_button.png" alt=""></a></th>
+                                    </tr>
+                                    <tr>
+                                        <th>JD_AoC.zip</th>
+                                        <th>12.1 GB</th>
+                                        <th>Google Driver</th>
+                                        <th><a href="/" target="blank"><img style="max-width: 100%; height: 50px;" src="/assets/download_button.png" alt=""></a></th>
+                                    </tr>
+                                    <tr>
+                                        <th>JD_AoC.zip</th>
+                                        <th>12.1 GB</th>
+                                        <th>Google Driver</th>
+                                        <th><a href="/" target="blank"><img style="max-width: 100%; height: 50px;" src="/assets/download_button.png" alt=""></a></th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h4></h4>
+                            <h4 style="text-align: left;"><span style="color: #993300;"><strong>Yêu cầu hệ
+                                        thống</strong></span></h4>
+                            <p><strong>» Hệ điều hành:</strong> <span style="color: #ff0000;">Tru Tiên Hỗn Thế</span> được phát triển dựa theo công nghệ sản
+                                xuất game tiên tiến cho chất lượng hình ảnh hiển thị sắc nét, hiệu ứng mượt mà.</p>
+                            <p><strong>» Yêu cầu khác:</strong> Với cấu hình máy tính thỏa yêu cầu như sau, bằng hữu có thể
+                                yên tâm cài đặt <span style="color: #ff0000;">Tru Tiên Hỗn Thế</span> và thưởng thức thế giới Tru Tiên hoành tráng.</p>
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr class="text-center active" style="background-color: #d7d8d9;">
+                                        <td colspan="2" ><strong>Yêu cầu tối thiểu</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Hệ điều hành</td>
+                                        <td>Windows XP SP3 trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CPU</td>
+                                        <td>Intel Core 2 Duo</td>
+                                    </tr>
+                                    <tr>
+                                        <td>RAM</td>
+                                        <td>2GB</td>
+                                    </tr>
+                                    <tr>
+                                        <td>VGA</td>
+                                        <td>GT710 1GB trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sound Card</td>
+                                        <td>Card tích hợp</td>
+                                    </tr>
+                                    <tr>
+                                        <td>HDD</td>
+                                        <td>Trống 20 GB trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Đường truyền mạng</td>
+                                        <td>ADSL</td>
+                                    </tr>
+                                    <tr class="text-center active" style="background-color: #d7d8d9;">
+                                        <td colspan="2"><strong>Yêu cầu đề nghị</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Hệ điều hành</td>
+                                        <td>Windows 7/8/10</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CPU</td>
+                                        <td>Intel Core I5 hoặc Xeon trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>RAM</td>
+                                        <td>8 GB trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>VGA</td>
+                                        <td>GTX950 2GB trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sound Card</td>
+                                        <td>Card tích hợp hoặc card rời</td>
+                                    </tr>
+                                    <tr>
+                                        <td>HDD</td>
+                                        <td>Trống 20 GB trở lên</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Đường truyền mạng</td>
+                                        <td>ADSL</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p><strong>» Yêu cầu máy phải cài:</strong>&nbsp;<a
+                                    href="https://www.lo4d.com/get-file/directx-9-0c/9c8018e5f39836bc2eb566e12f815837/">DirectX
+                                    9.0c</a>&nbsp;trở lên.</p>
+                                    <p>Các thắc mắc liên quan đến tải & cài đặt game, kỳ sĩ vui lòng gửi thông tin về trang&nbsp;<a
+                                        href="https://www.facebook.com/zhuxian.AOC/" target="_blank">Fanpage hỗ trợ</a>&nbsp;hoặc liên hệ
+                                    trực tiếp zalo&nbsp;<strong>0355251714&nbsp;</strong>để nhận được sự hỗ trợ tốt
+                                    nhất.</p>
+            
+                                <p>Trân trọng!</p>
+                        </div><!-- .entry-content -->
+                    </article>
                 </div>
             </div>
         </div>

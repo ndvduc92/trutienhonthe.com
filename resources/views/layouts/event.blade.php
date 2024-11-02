@@ -16,7 +16,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -24,7 +24,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -32,7 +32,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -40,7 +40,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -48,7 +48,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -64,7 +64,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -72,7 +72,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -80,7 +80,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -88,7 +88,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -96,7 +96,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -112,7 +112,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -120,7 +120,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -128,7 +128,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -136,7 +136,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -144,7 +144,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -160,7 +160,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -168,7 +168,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -176,7 +176,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -184,7 +184,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -192,7 +192,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -208,7 +208,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -216,7 +216,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -224,7 +224,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -232,7 +232,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -240,7 +240,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -256,7 +256,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -264,7 +264,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -272,7 +272,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -280,7 +280,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -288,7 +288,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -304,7 +304,7 @@
                         <ul class="event-list">
                             <li>
 
-                                <a href="/19h30-19h50-ve-thanh-chien">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -312,7 +312,7 @@
                             </li>
                             <li>
 
-                                <a href="/17h-17h30-boss-chuyen-sinh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -320,7 +320,7 @@
                             </li>
                             <li>
 
-                                <a href="/16h-16h10-boss-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -328,7 +328,7 @@
                             </li>
                             <li>
 
-                                <a href="/14h30-14h50-ho-tong-bien-canh">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
@@ -336,7 +336,7 @@
                             </li>
                             <li>
 
-                                <a href="/12h-12h20-thi-dau-lien-sv">
+                                <a href="">
 
                                     <span class="event-name">Đang cập nhật...</span>
 
